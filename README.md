@@ -36,12 +36,12 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-e-commerce.git
+   git clone https://github.com/Satyasuranjeet/E-Commerce.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd react-e-commerce
+   cd E-Commerce
    ```
 
 3. Install dependencies:
