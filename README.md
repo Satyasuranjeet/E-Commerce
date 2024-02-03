@@ -57,3 +57,7 @@ To run the project locally, follow these steps:
 The application should now be accessible at `http://localhost:3000`. Explore the e-commerce website and make any modifications or enhancements according to your needs.
 
 Feel free to reach out if you have any questions or need further assistance. Happy coding!
+
+<img src="https://i.ibb.co/fFsktLB/Screenshot-2024-02-03-105613.png"/>
+<img src="https://i.ibb.co/LkZFSsd/Screenshot-2024-02-03-105624.png"/>
+
